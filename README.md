@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Fashionist](https://milowinchester.github.io/Fashionist/)
 
-- 🌱 I’m currently learning **React.js | EVM contracts**
+- 🌱 I’m currently learning **React.js, more in solidity**
 
 - 💬 Ask me about **JavaScript, HTML, CSS | CSS frameworks, Solidity**
 
