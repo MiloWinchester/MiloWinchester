@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **JavaScript, HTML, CSS | CSS frameworks, Solidity**
 
-- 📫 How to reach me **https://t.me/Milladx**
+- 📫 Reach me in telegram: **https://t.me/Milladx**
+
+- 📧 Email me **milowinchester6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
