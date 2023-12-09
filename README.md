@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Fashionist](https://milowinchester.github.io/Fashionist/)
 
-- 🌱 I’m currently learning **React.js, more in solidity**
+- 🌱 I’m currently learning **React.js, and more in solidity**
 
 - 👨‍💻 All of my projects are available at [https://milowinchester.github.io](https://milowinchester.github.io)
 
