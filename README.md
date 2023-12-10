@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.imgur.com/DvVimQs.jpg" alt="Milo-Development"/>
+<img align="center"  src="https://i.imgur.com/37GlxGH.jpg" alt="Milo-Development" width="" />
 
 <h1 align="center">Hi 👋🏻, I'm Milo</h1>
 <h3 align="center">A passionate frontend and solidity developer from Iran.</h3>
