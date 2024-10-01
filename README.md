@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/millowinchester" target="blank"><img src="https://img.shields.io/twitter/follow/millowinchester?logo=twitter&style=for-the-badge" alt="millowinchester" /></a> </p>
 
-- 🔭 I’m currently working on [Fashionist](https://milowinchester.github.io/Fashionist/)
+- 🔭 I’m currently working on [Wallet]([https://wallet-amber-alpha.vercel.app/])
 
-- 🌱 I’m currently learning **React.js, and more in solidity**
+- 🌱 I’m currently learning **Next.js, and more in solidity**
 
-- 👨‍💻 All of my projects are available at [https://milowinchester.github.io](https://milowinchester.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://milowinchester.github.io](https://milowinchester.github.io) -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS | CSS frameworks, Solidity**
+- 💬 Ask me about **JavaScript, HTML, CSS | CSS frameworks, React.js, TypeScript and more in front-end development, and also Solidity**
 
-- 📫 Reach me in telegram: **https://t.me/Milladx**
+- 📫 Reach me in telegram: **https://t.me/MiloWinchester**
 
 - 📧 Email me **milowinchester6@gmail.com**
 
