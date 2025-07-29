@@ -1,7 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-<!--   <img src="https://i.imgur.com/37GlxGH.jpg" width="100%" alt="Neviox Banner" /> -->
-  <img src='https://i.postimg.cc/cHP8S6xC/upscalemedia-transformed.png' style="border-radius: 12px;" width="100%" alt='Neviox Banned'/>
+  <img src='https://i.postimg.cc/cHP8S6xC/upscalemedia-transformed.png' style="border-radius: 12px;" width="100%" alt='Neviox Banner'/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
@@ -44,19 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milowinchester&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milowinchester&layout=compact&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milowinchester&theme=radical" height="180" />
 </p>
 
 ---
