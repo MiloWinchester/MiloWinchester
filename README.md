@@ -1,9 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/37GlxGH.jpg" width="100%" alt="Neviox Banner" />
+<!--   <img src="https://i.imgur.com/37GlxGH.jpg" width="100%" alt="Neviox Banner" /> -->
+  <img src='https://i.postimg.cc/cHP8S6xC/upscalemedia-transformed.png' style="border-radius: 12px;" width="100%" alt='Neviox Banned'/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Milo</h1>
+<h1 align="center">Hi 👋, I'm Milad</h1>
 <h3 align="center">Webflow Specialist · Front-End Development · Business Development</h3>
 
 <p align="center">
